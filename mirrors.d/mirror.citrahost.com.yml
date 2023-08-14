@@ -1,0 +1,14 @@
+---
+name: mirror.citrahost.com
+address:
+  http: http://mirror.citrahost.com
+  https: https:/mirror.citrahost.com
+update_frequency: 3h
+geolocation:
+  country: ID
+  state_province: Yogyakarta  
+  city: Sleman
+sponsor: Citrahost
+sponsor_url: https://citrahost.com
+email: deva@citra.web.id
+...
